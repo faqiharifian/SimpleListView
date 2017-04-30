@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="/mnt/64BD66E36A6D3A3E/PROJECT/-Training-/dicoding/SimpleListView" />
+            <option value="/mnt/64BD66E36A6D3A3E/PROJECT/-Training-/dicoding/SimpleListView/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
